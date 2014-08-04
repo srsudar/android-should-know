@@ -26,3 +26,11 @@ apache http client.
 
 1. [**Gradle Build System**](http://tools.android.com/tech-docs/new-build-system):
 The site for the Gradle build system, including usage and release notes.
+
+## Code
+
+1. [**Android Annotations**](https://github.com/excilys/androidannotations/wiki):
+Heavy use of annotations in an effort to make code more readable and
+maintainable by abstracting away some complexities of Android development.
+1. [**Butter Knife**](https://github.com/JakeWharton/butterknife):
+Uses annotations to inject and manage views.
