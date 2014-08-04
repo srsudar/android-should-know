@@ -18,8 +18,8 @@ intuitive fluent-style assertion syntax for Android (formerly FEST Android).
 
 ## Persistence
 
-1. [**SQLite Asset Helper**](https://github.com/jgilfelt/android-sqlite-asset-helper)
-: Simplifies the process of shipping with and updating SQLite databases.
+1. [**SQLite Asset Helper**](https://github.com/jgilfelt/android-sqlite-asset-helper):
+Simplifies the process of shipping with and updating SQLite databases.
 
 ## Network
 
