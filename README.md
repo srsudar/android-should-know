@@ -1,12 +1,5 @@
-> Tools and libraries Android programmers should know about.
-
-## Overview
-
-I've been working with Android for several years, and yet I still encounter
-libraries or tools I wish I'd known about earlier.
-
-This repo aggregates such tools by providing links to resources that
-Android programmers should know are available, even if they never use them.
+> Tools and libraries Android programmers should know about, even if they
+don't use them.
 
 ## Testing
 
