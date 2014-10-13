@@ -8,6 +8,11 @@ framework that provides much more functionality than Android's stock testing
 support and does not require an attached device.
 1. [**AssertJ Android**](https://github.com/square/assertj-android): Provides an
 intuitive fluent-style assertion syntax for Android (formerly FEST Android).
+1. [**Espresso**](https://code.google.com/p/android-test-kit/wiki/Espresso): A
+UI unit testing framework. Provides an API to interact
+with and assert things about UI elements. Supported by Google.
+1. [**deckard-gradle**](https://github.com/robolectric/deckard-gradle): Sample
+project demonstrating how to use Robolectric to test and Gradle to build.
 
 ## Persistence
 
