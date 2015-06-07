@@ -39,3 +39,5 @@ Heavy use of annotations in an effort to make code more readable and
 maintainable by abstracting away some complexities of Android development.
 1. [**Butter Knife**](https://github.com/JakeWharton/butterknife):
 Uses annotations to inject and manage views.
+1. [**AppIntro**](https://github.com/PaoloRotolo/AppIntro): Create intros to
+your app.
