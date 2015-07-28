@@ -41,3 +41,6 @@ maintainable by abstracting away some complexities of Android development.
 Uses annotations to inject and manage views.
 1. [**AppIntro**](https://github.com/PaoloRotolo/AppIntro): Create intros to
 your app.
+1. [**Material-Icon-Lib**](https://github.com/code-mc/material-icon-lib): A
+repository of material design icons featuring strong integration with Android
+Studio.
